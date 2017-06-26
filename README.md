@@ -1,2 +1,6 @@
 # hello-world
-just from begin
+Noting special
+Hello here, I like Javascript very well.
+And I went to code my own Universe.
+
+
