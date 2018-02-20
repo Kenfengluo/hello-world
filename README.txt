@@ -7,3 +7,4 @@ Feature2
 Feature2 changes
 
 Fixing bug #12312
+fix the bug again and get something to work
