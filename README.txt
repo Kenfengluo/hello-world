@@ -1,1 +1,2 @@
-Hello foder
+Hello folder
+hello ting
