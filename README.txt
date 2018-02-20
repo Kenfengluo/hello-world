@@ -3,5 +3,7 @@ Hello folder
 hello ting
 shraring rthe txt with remote source is simply
 fifth line to make small case
-Feature2 
+Feature2
 Feature2 changes
+
+Fixing bug #12312
